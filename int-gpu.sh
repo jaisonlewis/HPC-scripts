@@ -1,0 +1,1 @@
+srun -p gpu-int --pty /bin/bash
